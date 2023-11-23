@@ -13,6 +13,16 @@ PNG images.
 - [Contributing](#contributing)
 - [License](#license)
 
+## Description
+
+QR-Code_Generator is a simple Java application that allows users to generate QR codes from input data and save them as
+PNG images.
+The application uses the ZXing ("Zebra Crossing") library to generate QR codes.
+The application also
+validates the provided path and handles various edge cases.
+The application is written in Java and uses the Java
+Development Kit (JDK) 21. The application is tested on Windows 11.
+
 ## Features
 
 - Generate QR codes from user input data.
